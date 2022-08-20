@@ -15,8 +15,13 @@ Good background in agile scrum project management and teamwork.
 <div align="center">
   <img width="55" src="https://user-images.githubusercontent.com/25149142/185763402-45787734-7d15-47d4-ac6f-7677d8202b61.png"/>
   <img width="55" src="https://user-images.githubusercontent.com/25149142/185763399-59ab3ad9-aafc-4e8e-ac67-90fe295d7769.png"/>
+  <img width="55" src="https://user-images.githubusercontent.com/25149142/185768783-165b575f-e11a-4956-8454-3bdb9204fafb.jpg"/>
   <img width="55" src="https://user-images.githubusercontent.com/25149142/185763396-10414e61-a0f7-42cf-90e8-6664f3383c4a.png"/>
-  <img width="55" src="https://user-images.githubusercontent.com/25149142/185763398-6e65d723-4ea2-4f3b-b302-e709fb57d5a0.png"/></div>
+  <img width="55" src="https://user-images.githubusercontent.com/25149142/185763398-6e65d723-4ea2-4f3b-b302-e709fb57d5a0.png"/>
+  <img width="55" src="https://user-images.githubusercontent.com/25149142/185768802-53c3032d-c596-41a2-9c8c-b791247083c5.jpg"/>
+  <img width="55" src="https://user-images.githubusercontent.com/25149142/185768807-b929c4ef-268a-42b3-928a-a548d4ed1ccd.png"/>
+  <img width="70" src="https://user-images.githubusercontent.com/25149142/185768810-3c5742f7-1c31-44c3-ad39-899e31225edf.png"/>
+  <img width="55" src="https://user-images.githubusercontent.com/25149142/185768813-338d2860-78db-408e-b487-8b30db331a66.png"/></div>
   
   
 ## <img width="55" src="https://user-images.githubusercontent.com/25149142/185763888-9430fb8a-1fd0-4bbb-897b-ebd733100a4f.png"/> Connect With Me
